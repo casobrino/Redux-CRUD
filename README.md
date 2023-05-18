@@ -1,4 +1,7 @@
 # CRUD usando Redux - ReactRouterDom, SweetAlert y React Vite
+
+![Imagen de muestra del proyecto](/public/Captura.jpg)
+
 Este Crud usa Json-Server como base de datos, para correrlo usa el comando
 1. Clonar este repositorio
 2. Instalar las dependencias necesarias con
@@ -32,5 +35,4 @@ Tecnologias utilizadas en este proyecto
 
 
 Este proyecto tiene 2 reducers unidos en un unico store. El primer reducer es para los productos y el crud de estos, el sedundo reducer es para las alertas
-
 
