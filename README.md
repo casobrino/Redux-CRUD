@@ -1,6 +1,6 @@
 # CRUD usando Redux - ReactRouterDom, SweetAlert y React Vite
 
-![Imagen de muestra del proyecto](/public/Captura.jpg)
+![Imagen de muestra del proyecto](./public/Captura.jpg)
 
 Este Crud usa Json-Server como base de datos, para correrlo usa el comando
 1. Clonar este repositorio
