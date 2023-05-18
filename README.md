@@ -10,7 +10,7 @@ Este Crud usa Json-Server como base de datos, para correrlo usa el comando
 o 
 >npm install
 3. Levantar el servidor
->>> json-server --watch db.json
+> json-server --watch db.json
 
 el cual lanzara el servidor en 
 > http://localhost:3000/productos
